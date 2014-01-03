@@ -29,7 +29,7 @@
 <header>
     <div class="container_12">
         <div class="grid_12">
-           <h1><a href="index.php"><img src="images/logo.png" alt="BIZZ"></a></h1>
+           <h1><a href="index.php"><img src="images/logo.png" alt="FULPRUF"></a></h1>
         </div>
     </div>
     <nav>
