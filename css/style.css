@@ -125,7 +125,7 @@ a.btn:hover {
 
 header {
 	display: block;
-	padding: 39px 0 0;
+/*	padding: 39px 0 0;  */
 	z-index: 999;
 	background:#242424;
 }
@@ -141,7 +141,10 @@ header h1 {
 header h1 a {display: inline-block;}
 header h1 a img {display: block;}
 
-nav {background:#85ccd9; margin-top:41px; padding:23px 0 21px 0;}
+nav {background:#85ccd9;
+/*	 margin-top:41px;	*/
+	 padding:23px 0 21px 0;
+}
 nav .grid_12 {text-align:center;}
 
 /*******content********/

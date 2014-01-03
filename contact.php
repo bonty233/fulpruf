@@ -102,7 +102,6 @@
               <dl>
                   <dt>#9 Police Post Street,<br>
 Teshie-Nungua Estates.</dt>
-                  <dd><span>Freephone:</span>+1 800 559 6580</dd>
                   <dd><span>Mobile:</span>+233 24 375 3852</dd>
                   <dd><span>Mobile:</span>+233 54 524 7030</dd>
                   <dd><span>Mobile:</span>+233 57 382 8695</dd>

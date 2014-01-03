@@ -73,7 +73,7 @@
             <div class="grid_12">
                 <ul class="sf-menu">
                     <li class="current"><a href="index.php" title="Home">HOME</a></li>
-                    <li><a href="about.php">ABOUT</a>
+                    <li><a href="about.php" title="About Us">ABOUT</a>
                       <ul>
                             <li><a href="history.php" title="History">OUR HISTORY</a></li>
                             <li><a href="team.php" title="Meet the TEAM">OUR TEAM</a></li>
