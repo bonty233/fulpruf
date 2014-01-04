@@ -3,6 +3,8 @@
 <head>
      <title>FAQs</title>
      <meta charset="utf-8">
+     <meta name="description" content="Website for FulPruf Ghana">
+     <meta keywords="FulPruf, homepage, software, development, mobile apps, desktop applications, Ghana, computer, programming, android programming,police post"
      <link rel="icon" href="images/favicon.ico">
      <link rel="shortcut icon" href="images/favicon.ico" />
      <link rel="stylesheet" href="css/style.css">

@@ -216,7 +216,7 @@ ssimos ducimus qui bl abd gdihtiijolwer praesentium voluptatum deenir rf uiti jl
                     <h2 class="indent-1">About Us</h2>
                     <div class="wrap box-2">
                         <img src="images/page1-img9.jpg" alt="">
-                        <p class="text-info"><a href="http://blog.templatemonster.com/free-website-templates/" target="_blank">Click here</a> for more info about this free website template created by TemplateMonster.com </p>
+                        <p class="text-info"><a href="about.php" target="_blank">Click here</a> for more info.</p>
                         <p>Lorem ipsum dolor sit amet consec tetuer adiping elit. Praesent vestibulum molestie lacus. Aenegan nonummy hendrerit mauris. Phasellus portafgtthh Fusce suscipit varius mium sociisileli.</p>
                         Lorem ipsum dolor sit amet, consec tetuer adipiscing elit. Praesent vestibulum molestiealld je lacus. Aenean nonummy hendrerit mauris. Phasellus porta. Fusce suscipit varius mi. Cumtyle sociis natoque penatibus et  montes nascetur ridiculus mus. Nulla dui. Fusce feue suadatroli odio. Morbi nunc odio, gravida at, cursusnec luctus a lorem. Maecenas tristique orci semertyle. Duis ultricies pharetra magna. Donec accumsan malesuada orci. Donecorem ipmolotyweqop
     dolor sit amet  Lorem ipsum dolor sit amet, consec. Fusce suscipit vam.<br>
