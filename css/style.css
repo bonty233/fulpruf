@@ -46,7 +46,7 @@ h4 {
 }
 p {margin-bottom: 19px;}
 .text-info {color:#000;}
-.lead {font-size:14px; color:#fe8948;}
+.lead {font-size:14px; color:#3f3f3f;}
 p.lead {margin-bottom:10px;}
 
 ul {
@@ -68,7 +68,7 @@ ul.list li a:hover{color: #fd6e43;}
 
 a {
 	text-decoration: none;
-	color: #fe8948;
+	color: #3f3f3f;
 	outline: none;
 	transition: 0.5s ease;
 	-o-transition: 0.5s ease;
@@ -79,7 +79,7 @@ a:hover {color: #16445c;}
 
 
 a.btn {
-	background: url(../images/btn.jpg) 0 0 repeat-x #fe8948;
+	background: url(../images/btn.jpg) 0 0 repeat-x #3f3f3f;
 	display: inline-block;
 	font-family:"Times New Roman", Times, serif;
 	font-size:14px;
@@ -91,7 +91,7 @@ a.btn {
 }
 
 a.btn:hover {
-	background:  #fe8948;
+	background:  #3f3f3f;
 	color: #fff;
 }
 .clear {clear: both;}
