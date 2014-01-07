@@ -16,7 +16,7 @@
      <script src="js/jquery.carouFredSel-6.1.0-packed.js"></script>
      <script src="js/jquery.ui.totop.js"></script>
      <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-52c9c47757068cf1"></script>
-     <script type="text/javascript" src="js/social-share.js"></script>
+     <script type="text/javascript" src="js/social.js"></script>
      <script>
       $(window).load(function(){
 		  $('.slider')._TMS({

@@ -14,7 +14,7 @@
      <script src="js/jquery.ui.totop.js"></script>
      <script src="js/forms.js"></script>
      <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-52c9c47757068cf1"></script>
-     <script type="text/javascript" src="js/social-share.js"></script>
+     <script type="text/javascript" src="js/social.js"></script>
      <!--[if lt IE 8]>
        <div style=' clear: both; text-align:center; position: relative;'>
          <a href="http://windows.microsoft.com/en-US/internet-explorer/products/ie/home?ocid=ie6_countdown_bannercode">
