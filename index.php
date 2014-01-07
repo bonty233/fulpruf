@@ -100,16 +100,16 @@
         <div class="slider-block">
             <div class="slider">
                 <ul class="items">
-                    <li><img src="images/slider-1.jpg" alt="">
+                    <li><img src="images/biz1.jpg" alt="">
                         <div class="banner">Our Customers are Our Priority</div>
                     </li>
-                    <li><img src="images/slider-2.jpg" alt="">
+                    <li><img src="images/biz2.jpg" alt="">
                         <div class="banner">Creative Problem-Solving</div>
                     </li>
-                    <li><img src="images/slider-3.jpg" alt="">
+                    <li><img src="images/biz3.jpg" alt="">
                         <div class="banner">Imagination is Our Power</div>
                     </li>
-                    <li><img src="images/slider-4.jpg" alt="">
+                    <li><img src="images/biz4.jpg" alt="">
                         <div class="banner">The World of Opportunities</div>
                     </li>
                 </ul>
