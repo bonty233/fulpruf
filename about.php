@@ -63,8 +63,13 @@
         	<h2 class="indent-2">Company</h2>
 		</div>
         <div class="grid_6">
-        	<span class="lead">In pede mi aliquet sit amet euismod in auctor ut ligula</span><br>
-            Es euisoe rspide oistatu olup cusm dolemqu udiem aper iaipsqu aeabnve ntore vatis etqua.si ae eatae vitae dicta susciun. ue porro quisqua est, qui dolorem ipsunt explicbomo enim ipsatatoptas sit asperatur autit. Aut git, sed quia coquutu magni dolores eos qui ratione luptatem sequi nesciunue porro quisqua est, qui dolorem ipsum quia dolor sit amet, consectetur adipiscielit, sed quia non numquam eius modi temp.ora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem 
+        	<span class="lead"></span><br>
+            FulPruf Inc. is a web development company that provides quality website design, development, 
+            mobile phone/tablet applications consultation to business owners at competitive prices.<br>
+            We focus on providing website design services to companies and individuals. Our services draw on the experience
+            in business management and quality software development of the staff. This background povides the skills necessary
+            to support business operations, technical aspects of computer based business design and development of products
+            for our clients.
 		</div>
         <div class="grid_3">
         	<img src="images/page2-img1.jpg" alt="">
