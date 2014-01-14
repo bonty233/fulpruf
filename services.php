@@ -62,24 +62,27 @@
         	<h2 class="indent-2">Featured Services</h2>
 		</div>
         <div class="grid_3">
-        	<p class="lead">Consectetuer adipiglest
-lacenean nummy nrerit uris.</p>
-            Consectetuer adipiglest lacenean nummy nrerit uris nummy nrerit uris. Pha sellortsce scipit varius mi. Cum sociistoque pentibus et magnis diarturi ntots nascetur ricu. <br>
+        	<p class="lead">Professional Website Design.</p>
+            We provide you with the very best of eye catching designs which dwells on customers to help boost the 
+            popularity of business and also win the market from your competitors. <br>
             <a href="#" class="btn">more</a>
 		</div>
         <div class="grid_3">
-        	<p class="lead">Pha sellortsce scipit varius mi. Cum sociistoque pentibus et</p>
-            Consectetuer adipiglest lacenean nummy nrerit uris nummy nrerit uris. Pha sellortsce scipit varius mi. Cum sociistoque pentibus et magnis diarturi ntots nascetur ricu.<br>
+        	<p class="lead">Online Application Development</p>
+            Tell us your problem we give you a solution, by giving you the very best of applications for your business
+            needs. These applications will hasten the rate at which work is done.<br>
             <a href="#" class="btn">more</a>
 		</div>
         <div class="grid_3">
-        	<p class="lead">Adipiglest lacenean nummy nrerit uris. Pha sellortsce.</p>
-            Consectetuer adipiglest lacenean nummy nrerit uris nummy nrerit uris. Pha sellortsce scipit varius mi. Cum sociistoque pentibus et magnis diarturi ntots nascetur ricu.<br>
+        	<p class="lead">Mobile Application Development</p>
+            To get your application onto the mobile platform we provide you with that luxury. We give your application
+            a professional look and very user friendly features to boost your market.<br>
             <a href="#" class="btn">more</a>
 		</div>
         <div class="grid_3">
-        	<p class="lead">Nmy nrerit uris. Pha sellortsce scipit varius mi.</p>
-            Consectetuer adipiglest lacenean nummy nrerit uris nummy nrerit uris. Pha sellortsce scipit varius mi. Cum sociistoque pentibus et magnis diarturi ntots nascetur ricu.<br>
+        	<p class="lead">Search Engine Optmization</p>
+            We can ensure your website would be ranked high by all major search engines to enable prospective
+            clients get to you easily. You will be ranked in the first 20 search results in no time<br>
             <a href="#" class="btn">more</a>
 		</div>
 	</div>
@@ -88,15 +91,15 @@ lacenean nummy nrerit uris.</p>
             <div class="grid_4">
                 <h2 class="indent-2">Services List</h2>
                 <ul class="list">
-                    <li><a href="#">Etiam cursus leo vel metus</a></li>
-                    <li><a href="#">Nulla facilisi</a></li>
-                    <li><a href="#">Aenean nec eros</a></li>
-                    <li><a href="#">Vestibulum ante ipsum primis</a></li>
-                    <li><a href="#">In faucibus orci luctus et</a></li>
-                    <li><a href="#">Ultrices posuere cubilia Curae</a></li>
-                    <li><a href="#">Suspendisse sollicitudin velit sed</a></li>
-                    <li><a href="#">Ut pharetra augue nec augue</a></li>
-                    <li><a href="#">Nam elit agna,endrerit sit amet</a></li>
+                    <li><a href="#">Website Design</a></li>
+                    <li><a href="#">Advanced Web Applications</a></li>
+                    <li><a href="#">Mobile/Tablet Applications</a></li>
+                    <li><a href="#">Search Engine Optimization</a></li>
+                    <li><a href="#">IT Consultation</a></li>
+                    <li><a href="#">Database Development</a></li>
+                    <li><a href="#">Subcontracting</a></li>
+                    <li><a href="#">Website Review</a></li>
+                    <li><a href="#">Quality Assurace</a></li>
                 </ul>
             </div>
             <div class="grid_4">
@@ -104,15 +107,13 @@ lacenean nummy nrerit uris.</p>
                 <ul class="list-work">
                     <li class="wrap box-2">
                         <img src="images/page4-img1.jpg" alt="">   
-                        <span class="lead"><a href="#">Vivamus eget nibh</a></span><br>
-    Es euisoe rspide oistatu olup cusm dolemqu rewil udiem aper iaipsqu hytero 
-    aeabnve ntore ve ritatis sd  lo deretqua.
+                        <span class="lead"><a href="#">Team Work</a></span><br>
+    Our strong team of developers work hand in hand to bring you the very best of softwares.
                     </li>
                     <li class="wrap box-2">
                         <img src="images/page4-img2.jpg" alt="">   
-                        <span class="lead"><a href="#">Aenean nec eros</a></span><br>
-    Cusm dolemqu udiemuto aper iaipsqu aeabnvewer ntore veritatis vitae noli
-    explicbomo enipsatatol.
+                        <span class="lead"><a href="#">Testing Application</a></span><br>
+    All applications are fully tested before being handed over to our clients.
                     </li>
                 </ul>
                 <a href="#" class="btn">more</a>
