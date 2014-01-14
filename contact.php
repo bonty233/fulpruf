@@ -13,8 +13,8 @@
      <script src="js/jquery.equalheights.js"></script>
      <script src="js/jquery.ui.totop.js"></script>
      <script src="js/forms.js"></script>
-     <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-52c9c47757068cf1"></script>
-     <script type="text/javascript" src="js/social.js"></script>
+     <script src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-52c9c47757068cf1"></script>
+     <script src="js/social.js"></script>
      <!--[if lt IE 8]>
        <div style=' clear: both; text-align:center; position: relative;'>
          <a href="http://windows.microsoft.com/en-US/internet-explorer/products/ie/home?ocid=ie6_countdown_bannercode">
@@ -64,8 +64,8 @@
         	<h2 class="indent-2">ConTact Us</h2>
 		</div>
         <div class="grid_5">
-        	<form id="form">
-                <div class="text-info">Send an e-mail. All fields with an * are required</div>
+        	<form id="form" name="contact" action="" method="post">
+                <div class="text-info">Send an e-mail. All fields with * are required</div>
                 <div class="success">Contact form submitted!<br>
                 <strong>We will be in touch soon.</strong> </div>
                 <fieldset>

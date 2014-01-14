@@ -11,7 +11,7 @@
 					successCl:'success',
 					successShow:'4000',
 					mailHandlerURL:'bat/MailHandler.php',
-					ownerEmail:'support@template-help.com',
+					ownerEmail:'info@fulpruf.com',
 					stripHTML:true,
 					smtpMailServer:'localhost',
 					targets:'input,textarea',
@@ -182,6 +182,6 @@
 })(jQuery)
 $(window).load(function(){
 	$('#form').forms({
-		ownerEmail:'#'
+		ownerEmail:'info@fulpruf.com'
 	})
 })
