@@ -122,22 +122,21 @@
                 <img src="images/page1-img1.png" alt="">
                 <h4>Standards</h4>
             </div>
-            At vero eos et accusamus et iusto odio dignissimos ducimus qui bl abd gdihtii praesentium voluptatum deenir rf uiti jll atque. Corrupti quos doloregts.
+            Our products are top notch,very secure, easy to use and up to date with the latest technologies in the IT world. We pay attention to what the client needs and deliver on that. We also deliver our services and products on time based on our good work ethics.
 		</div>
         <div class="grid_3 box-1">
         	<div class="wrap">
                 <img src="images/page1-img2.png" alt="">
                 <h4>Principles</h4>
             </div>
-            Gthoie eos et accusamus et iusto odio dignissimos ducimus qui bl abd gdihtii praesentium voluptatum deenir rf uiti jll atque. Mjhof sdaw doloregts.
+            Our Business Principles, the foundation of our culture of client service, teamwork, excellence, personal initiative and accountability, are fundamental to our long-term sustainability and success.
 		</div>
         <div class="grid_3 box-1">
         	<div class="wrap">
                 <img src="images/page1-img3.png" alt="">
                 <h4>Experience</h4>
             </div>
-            Loas jift accusamus et iusto odio dniloit
-ssimos ducimus qui bl abd gdihtiijolwer praesentium voluptatum deenir rf uiti jlol atque. Gfasdh quos doloregts.
+            As developers, we have 3 years experience in the field. We have developed a number of applications and softwares, which are all of good quality standards. 
 		</div>
         <div class="grid_3 box-1">
         	<div class="wrap">
@@ -210,7 +209,7 @@ ssimos ducimus qui bl abd gdihtiijolwer praesentium voluptatum deenir rf uiti jl
                 </div>
             </div>
         </div>
-    </div> 
+    </div>  <!--
     <div class="bg-2">
         <div class="container_12">
             <div class="grid_7">
@@ -249,14 +248,14 @@ ssimos ducimus qui bl abd gdihtiijolwer praesentium voluptatum deenir rf uiti jl
             </div>
         </div>
     </div>           
-</div>
+</div>  -->
 
 
 <!--==================FOOTER===============-->
 <footer>
 	<div class="container_12">
 		<div class="grid_8">
-			<span>FulPruf &copy; 2014 | Privacy Policy | Website  designed by <a href="http://www.fulpruf.com/" rel="nofollow" target="_blank">FulPruf</a></span>
+			<span>&copy; 2014 FulPruf | Privacy Policy | </span>
 		</div>
         <div class="grid_4">
         	<ul class="soc-icon">

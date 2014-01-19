@@ -117,8 +117,8 @@ oluty gtrew lokiju qwertynou.             <br>
 <footer>
   <div class="container_12">
     <div class="grid_8">
-      <span>FulPruf &copy; 2014 | Privacy Policy | Website  designed by <a href="http://www.fulpruf.com/" rel="nofollow" target="_blank">FulPruf</a></span>
-    </div>
+			<span>&copy; 2014 FulPruf | Privacy Policy | </span>
+		</div>
         <div class="grid_4">
           <ul class="soc-icon">
               <li><a href="#"><img src="images/icon-3.png" alt=""></a></li>

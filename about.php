@@ -64,7 +64,7 @@
 		</div>
         <div class="grid_6">
         	<span class="lead"></span><br>
-            FulPruf Inc. is a web development company that provides quality website design, development, 
+            FulPruf is a web development company that provides quality website design, development, 
             mobile phone/tablet applications consultation to business owners at competitive prices.<br>
             We focus on providing website design services to companies and individuals. Our services draw on the experience
             in business management and quality software development of the staff. This background povides the skills necessary
@@ -131,7 +131,7 @@ Maecenas tristique orci ac sem. Duis ultrices pharetra gna. Donec accumsan  male
             <div class="grid_12">
                 <h2 class="indent-2">Clients</h2>
             </div>
-            <div class="grid_6">Pha sellortsce scipit varius mi. Cum sociistoque pentibus et magnis diarturintots nascetur ricu.lus mulla dug malesuada odiorbi dio gravida atcursus necuus a lorem. Maecenas tristique orci ac sem. Duis ultrices pharetra gna. Donec accumsan malesuada orci.Conec sit amet eros. Lorem ipsum dolor sit amt consc tetuer aiing elit. Mauris fermentum tum magna. Sed laoreet aliquam leo. Ut te dolor dapibus eget elentu vel cursus eleifend elit.</div>
+            <div class="grid_6">Over the years, we have built very strong relationships with our clientele. Here's what some of them have to say about the service we offer.</div>
             <div class="grid_2"><a href="#"><img src="images/page2-img9.jpg" alt=""></a></div>
             <div class="grid_2"><a href="#"><img src="images/page2-img10.jpg" alt=""></a></div>
             <div class="grid_2"><a href="#"><img src="images/page2-img11.jpg" alt=""></a></div>
@@ -141,8 +141,8 @@ Maecenas tristique orci ac sem. Duis ultrices pharetra gna. Donec accumsan  male
 <footer>
     <div class="container_12">
         <div class="grid_8">
-            <span>FulPruf &copy; 2014 | Privacy Policy | Website  designed by <a href="http://www.fulpruf.com/" rel="nofollow" target="_blank">FulPruf</a></span>
-        </div>
+			<span>&copy; 2014 FulPruf | Privacy Policy | </span>
+		</div>
         <div class="grid_4">
             <ul class="soc-icon">
                 <li><a href="#"><img src="images/icon-3.png" alt=""></a></li>
