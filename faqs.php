@@ -1,8 +1,15 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+<<<<<<< HEAD
      <title>ABOUT</title>
      <meta charset="utf-8">
+=======
+     <title>FAQs</title>
+     <meta charset="utf-8">
+     <meta name="description" content="Website for FulPruf Ghana">
+     <meta keywords="FulPruf, homepage, software, development, mobile apps, desktop applications, Ghana, computer, programming, android programming,police post"
+>>>>>>> 42ac71a3a51c05b8b78d9c116ad4df5f5b9ad85a
      <link rel="icon" href="images/favicon.ico">
      <link rel="shortcut icon" href="images/favicon.ico" />
      <link rel="stylesheet" href="css/style.css">
@@ -12,6 +19,11 @@
      <script src="js/superfish.js"></script>
      <script src="js/jquery.equalheights.js"></script>
      <script src="js/jquery.ui.totop.js"></script>
+<<<<<<< HEAD
+=======
+     <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-52c9c47757068cf1"></script>
+     <script type="text/javascript" src="js/social.js"></script>
+>>>>>>> 42ac71a3a51c05b8b78d9c116ad4df5f5b9ad85a
      <!--[if lt IE 8]>
        <div style=' clear: both; text-align:center; position: relative;'>
          <a href="http://windows.microsoft.com/en-US/internet-explorer/products/ie/home?ocid=ie6_countdown_bannercode">
@@ -27,18 +39,30 @@
 <body>
 <!--==============================header=================================-->
 <header>
+<<<<<<< HEAD
 	<div class="container_12">
 		<div class="grid_12">
            <h1><a href="index.html"><img src="images/logo.png" alt="FULPRUF"></a></h1>
 		</div>
+=======
+  <div class="container_12">
+    <div class="grid_12">
+           <h1><a href="index.php"><img src="images/logo.png" alt="FULRPUF"></a></h1>
+    </div>
+>>>>>>> 42ac71a3a51c05b8b78d9c116ad4df5f5b9ad85a
     </div>
     <nav>
         <div class="container_12">
             <div class="grid_12">
                 <ul class="sf-menu">
                     <li><a href="index.php">HOME</a></li>
+<<<<<<< HEAD
                     <li class="current"><a href="about.php">ABOUT</a>
                     	<ul>
+=======
+                    <li  class="current"><a href="about.php">ABOUT</a>
+                      <ul>
+>>>>>>> 42ac71a3a51c05b8b78d9c116ad4df5f5b9ad85a
                             <li><a href="history.php">OUR HISTORY</a></li>
                             <li><a href="team.php">OUR TEAM</a></li>
                             <li><a href="faqs.php">FAQs</a></li>
@@ -53,6 +77,7 @@
         </div>
     </nav>
 </header>
+<<<<<<< HEAD
 
 <!--=======content================================-->
 <div id="content"><div class="ic">More Website Templates @ TemplateMonster.com - July 22, 2013!</div>
@@ -60,6 +85,15 @@
 		
 	</div>
 </div>
+=======
+<!--=======content================================-->
+<div id="content"><div class="ic">More Website Templates @ TemplateMonster.com - July 22, 2013!</div>
+  <div class="container_12 bot-1">
+
+  </div>
+</div>
+
+>>>>>>> 42ac71a3a51c05b8b78d9c116ad4df5f5b9ad85a
 <!--==============================footer=================================-->
 <footer>
   <div class="container_12">
