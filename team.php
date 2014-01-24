@@ -61,7 +61,13 @@
 <!--=======content================================-->
 <div id="content"><div class="ic">More Website Templates @ TemplateMonster.com - July 22, 2013!</div>
 	<div class="container_12 bot-1">
-		
+		<table>
+			<tr>
+				<td></td>
+				<td>Peter Sowah<br />CEO / Founder</td>
+			</tr>
+			
+		</table>
     </div>           
 </div>
 

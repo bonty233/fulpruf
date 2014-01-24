@@ -57,14 +57,13 @@
 </header>
 
 <!--=======content================================-->
-<div id="content"><div class="ic">More Website Templates @ TemplateMonster.com - July 22, 2013!</div>
+<div id="content"><div class="ic">FulPruf</div>
 	<div class="container_12 bot-1">
 		<ul class="list-project">
           <li class="grid_3">
-            <img src="images/page3-img1.jpg" alt="">
-            <h4>DOrtorrupts gtse </h4>
-            Hoero eos et accusamus et iusto odioll dignissimos ducimus qui bl abd gdihtiiti praesentium oluptatum deenir rf uiti jllei atque. Gorrupti quos doloregts et quaso molestias excepturi sint  hip occaecatiw. At vero eos et  hhj  jk kjusamutrelomiker
-oluty gtrew lokiju qwertynul. <br>
+            <img src="images/cuisinegh.png" alt="">
+            <h4>cuisine gh</h4>
+            Cuisine GH is an online portal where recipes for local as well as some continental delicacies are showcased. You can get information on all, from ingredients to method of preparation. Check <a href="http://www.cuisinegh.com" target="_blank"> Cuisine GH</a> for more info.<br>
             <a href="#" class="btn">more</a>           
           </li>
           <li class="grid_3">

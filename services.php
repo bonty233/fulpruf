@@ -63,7 +63,7 @@
         	<h2 class="indent-2">Featured Services</h2>
 		</div>
         <div class="grid_3">
-        	<p class="lead">Professional Website Design.</p>
+        	<p class="lead">Professional Website Design</p>
             We provide you with the very best of eye catching designs which dwells on customers to help boost the 
             popularity of business and also win the market from your competitors. <br>
             <a href="#" class="btn">more</a>

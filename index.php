@@ -154,54 +154,52 @@
                     <div class="carousel_div">
                         <ul class="carousel1">
                           <li>
-                            <img src="images/page1-img5.jpg" alt="">
-                            <h4>Business AnalYtics</h4>
-                            At vero eos et accusamus et iusto odioll dignissimos ducimus qui bl abd gdihtiiti praesentium voluptatum deenir rf uiti jlle atque. Corrupti quos doloregts et quaso molestias excepturi sint  hip occaecatiw. At vero eos et  hhj  jk kjusamutrelomiker
-    oluty gtrew lokiju qwertynomi. <br>
-                            <a href="#" class="btn">more</a>           
+                            <img src="images/security.jpg" alt="">
+                            <h4>Security</h4>
+                            Our products are very safe and secure to use. We use the latest methods and reforms to ensure our clients are happy with our work. We always have our clients (end users) in mind. <br>
+                      <!--  <a href="#" class="btn">more</a>   -->        
                           </li>
                           <li>
-                            <img src="images/page1-img6.jpg" alt="">
-                            <h4>Growth Strategies</h4>
-                            Aolity vero eos et accusamus et iustokill odio dignissimos ducimus qui bl abduyl gdihtii praesentium voluptatum deenir rfi uiti jll atque. Dertorrupti quos doloregtse et quas molestias excepturi sint  hipterq occaecati. Ot vero eos et  hhj  jklomi poli kjusamu s et iusto odio dignissm.           <br>
-                            <a href="#" class="btn">more</a>    
+                            <img src="images/innovation.jpg" alt="">
+                            <h4>Innovation</h4>
+                            We always seek to find new ways of doing things and solving problems. This is one of our major hallmarks and we make it evident in the products we develop as we take innovation into consideration in software and aapplication development.     <br>
+                  <!--      <a href="#" class="btn">more</a>   -->      
                           </li>
                           <li>
                             <img src="images/page1-img7.jpg" alt="">
                             <h4>Smarter CommErce</h4>
-                            Tro eos et accusamus et iusto odioyrew dignissimos ducimus qui bl abd gdihtiitt praesentium voluptatum deenir rf uiti jlle atque. Holrrupti quos doloregts et quasi molestias excepturi sint  hip occaecatill. Ght vero eos et  hhj  jk kjusamuremmo li                              s et iusto odio dignissms ucimus.         <br>
-                            <a href="#" class="btn">more</a>    
+                            Tro eos et accusamus et iusto odioyrew dignissimos ducimus qui bl abd gdihtiitt praesentium voluptatum deenir rf uiti jlle atque. Holrrupti quos doloregts et quasi molestias excepturi sint  hip occaecatill. Ght vero eos et  hhj  jk kjusamuremmo li s et iusto odio dignissms ucimus.         <br>
+                <!--      <a href="#" class="btn">more</a>   -->       
                           </li>
                           <li>
-                            <img src="images/page1-img8.jpg" alt="">
-                            <h4>Market Research</h4>
+                            <img src="images/research.jpg" alt="">
+                            <h4>Research</h4>
                             Hfvero eos et accusamus et iusto odiotri dignissimos ducimus qui bl abd gdihtiin praesentium voluptatum deenir rf uiti jllo atque. Dorrupti quos doloregts et quase molestias excepturi sint  hip occaecatib. Rt vero eos et  rewlo jk kjusamu wertilo masdes et iusto odio asgnissme.          <br>
-                            <a href="#" class="btn">more</a>    
+                <!--      <a href="#" class="btn">more</a>   -->        
                           </li>
                           <li>
-                            <img src="images/page1-img5.jpg" alt="">
-                            <h4>Business AnalYtics</h4>
-                            At vero eos et accusamus et iusto odioll dignissimos ducimus qui bl abd gdihtiiti praesentium voluptatum deenir rf uiti jlle atque. Corrupti quos doloregts et quaso molestias excepturi sint  hip occaecatiw. At vero eos et  hhj  jk kjusamutrelomiker
-    oluty gtrew lokiju qwertynomi. <br>
-                            <a href="#" class="btn">more</a>           
+                            <img src="images/security.jpg" alt="">
+                            <h4>Security</h4>
+                            Our products are very safe and secure to use. We use the latest methods and reforms to ensure our clients are happy with our work. We always have our clients (end users) in mind.<br>
+                <!--      <a href="#" class="btn">more</a>   -->               
                           </li>
                           <li>
-                            <img src="images/page1-img6.jpg" alt="">
-                            <h4>Growth Strategies</h4>
-                            Aolity vero eos et accusamus et iustokill odio dignissimos ducimus qui bl abduyl gdihtii praesentium voluptatum deenir rfi uiti jll atque. Dertorrupti quos doloregtse et quas molestias excepturi sint  hipterq occaecati. Ot vero eos et  hhj  jklomi poli kjusamu s et iusto odio dignissm.           <br>
-                            <a href="#" class="btn">more</a>    
+                            <img src="images/innovation.jpg" alt="">
+                            <h4>Innovation</h4>
+                            We always seek to find new ways of doing things and solving problems. This is one of our major hallmarks and we make it evident in the products we develop as we take innovation into consideration in software and aapplication development.           <br>
+                 <!--      <a href="#" class="btn">more</a>   -->        
                           </li>
                           <li class="grid_3">
                             <img src="images/page1-img7.jpg" alt="">
-                            <h4>Smarter CommErce</h4>
-                            Tro eos et accusamus et iusto odioyrew dignissimos ducimus qui bl abd gdihtiitt praesentium voluptatum deenir rf uiti jlle atque. Holrrupti quos doloregts et quasi molestias excepturi sint  hip occaecatill. Ght vero eos et  hhj  jk kjusamuremmo li                              s et iusto odio dignissms ucimus.         <br>
-                            <a href="#" class="btn">more</a>    
+                            <h4>Consultancy</h4>
+                              <br>
+                 <!--      <a href="#" class="btn">more</a>   -->        
                           </li>
                           <li>
-                            <img src="images/page1-img8.jpg" alt="">
-                            <h4>Market Research</h4>
+                            <img src="images/research.jpg" alt="">
+                            <h4>Research</h4>
                             Hfvero eos et accusamus et iusto odiotri dignissimos ducimus qui bl abd gdihtiin praesentium voluptatum deenir rf uiti jllo atque. Dorrupti quos doloregts et quase molestias excepturi sint  hip occaecatib. Rt vero eos et  rewlo jk kjusamu wertilo masdes et iusto odio asgnissme.          <br>
-                            <a href="#" class="btn">more</a>    
+                <!--      <a href="#" class="btn">more</a>   -->        
                           </li>
                         </ul>
                     </div>
