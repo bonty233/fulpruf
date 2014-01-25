@@ -118,17 +118,17 @@ Teshie-Nungua Estates.</dt>
 </div>
 <!--==============================footer=================================-->
 <footer>
-  <div class="container_12">
-    <div class="grid_8">
-			<span>&copy; 2014 FulPruf | Privacy Policy | </span>
+    <div class="container_12">
+        <div class="grid_8">
+			<span>Copyright &copy; 2014 FulPruf. All rights reserved. </span>
 		</div>
         <div class="grid_4">
-          <ul class="soc-icon">
-              <li><a href="#"><img src="images/icon-3.png" alt=""></a></li>
+            <ul class="soc-icon">
+                <li><a href="#"><img src="images/icon-3.png" alt=""></a></li>
                 <li><a href="#"><img src="images/icon-2.png" alt=""></a></li>
                 <li><a href="#"><img src="images/icon-1.png" alt=""></a></li>
             </ul>
         </div>
-  </div>
+    </div>
 </footer>
 </html>

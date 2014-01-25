@@ -66,7 +66,7 @@
 <footer>
     <div class="container_12">
         <div class="grid_8">
-			<span>&copy; 2014 FulPruf | Privacy Policy | </span>
+			<span>Copyright &copy; 2014 FulPruf. All rights reserved. </span>
 		</div>
         <div class="grid_4">
             <ul class="soc-icon">

@@ -156,7 +156,7 @@
                           <li>
                             <img src="images/security.jpg" alt="">
                             <h4>Security</h4>
-                            Our products are very safe and secure to use. We use the latest methods and reforms to ensure our clients are happy with our work. We always have our clients (end users) in mind. <br>
+                            Our products are very safe and secure to use. We use the latest methods and reforms such as data encryption to protect data, thereby ensuring our clients are happy with our work. We always have our clients (end users) in mind. <br>
                       <!--  <a href="#" class="btn">more</a>   -->        
                           </li>
                           <li>
@@ -166,15 +166,15 @@
                   <!--      <a href="#" class="btn">more</a>   -->      
                           </li>
                           <li>
-                            <img src="images/page1-img7.jpg" alt="">
-                            <h4>Smarter CommErce</h4>
-                            Tro eos et accusamus et iusto odioyrew dignissimos ducimus qui bl abd gdihtiitt praesentium voluptatum deenir rf uiti jlle atque. Holrrupti quos doloregts et quasi molestias excepturi sint  hip occaecatill. Ght vero eos et  hhj  jk kjusamuremmo li s et iusto odio dignissms ucimus.         <br>
+                            <img src="images/consultancy.jpg" alt="">
+                            <h4>Consultancy</h4>
+                            We provide first-hand expert or professional advice on business innovation through Information Technology. Businesses are now moving onto the internet. Business services such as marketing are done online. This is where we come in and help our clients get their business to the with our wealth of knowledge in the field.          <br>
                 <!--      <a href="#" class="btn">more</a>   -->       
                           </li>
                           <li>
                             <img src="images/research.jpg" alt="">
                             <h4>Research</h4>
-                            Hfvero eos et accusamus et iusto odiotri dignissimos ducimus qui bl abd gdihtiin praesentium voluptatum deenir rf uiti jllo atque. Dorrupti quos doloregts et quase molestias excepturi sint  hip occaecatib. Rt vero eos et  rewlo jk kjusamu wertilo masdes et iusto odio asgnissme.          <br>
+                            We carry out research on various ideas to see how far we can go with it. We use case studies which gives a picture of what is on the ground. We carry out researchs in order to find out what is already out there and how we can improve upon them.           <br>
                 <!--      <a href="#" class="btn">more</a>   -->        
                           </li>
                           <li>
@@ -189,16 +189,16 @@
                             We always seek to find new ways of doing things and solving problems. This is one of our major hallmarks and we make it evident in the products we develop as we take innovation into consideration in software and aapplication development.           <br>
                  <!--      <a href="#" class="btn">more</a>   -->        
                           </li>
-                          <li class="grid_3">
-                            <img src="images/page1-img7.jpg" alt="">
-                            <h4>Consultancy</h4>
-                              <br>
-                 <!--      <a href="#" class="btn">more</a>   -->        
-                          </li>
                           <li>
+                            <img src="images/consultancy.jpg" alt="">
+                            <h4>Consultancy</h4>
+                            We provide first-hand expert or professional advice on business innovation through Information Technology. Businesses are now moving onto the internet. Business services such as marketing are done online. This is where we come in and help our clients with our wealth of knowledge in the field.          <br>
+                <!--      <a href="#" class="btn">more</a>   -->       
+                          </li>
+                         <li>
                             <img src="images/research.jpg" alt="">
                             <h4>Research</h4>
-                            Hfvero eos et accusamus et iusto odiotri dignissimos ducimus qui bl abd gdihtiin praesentium voluptatum deenir rf uiti jllo atque. Dorrupti quos doloregts et quase molestias excepturi sint  hip occaecatib. Rt vero eos et  rewlo jk kjusamu wertilo masdes et iusto odio asgnissme.          <br>
+                            We carry out research on various ideas to see how far we can go with it. We use case studies which gives a picture of what is on the ground. We carry out researchs in order to find out what is already out there and how we can improve upon them.           <br>
                 <!--      <a href="#" class="btn">more</a>   -->        
                           </li>
                         </ul>
@@ -250,7 +250,7 @@
 <footer>
     <div class="container_12">
         <div class="grid_8">
-			<span>&copy; 2014 FulPruf | Privacy Policy | </span>
+			<span>Copyright &copy; 2014 FulPruf. All rights reserved. </span>
 		</div>
         <div class="grid_4">
             <ul class="soc-icon">
