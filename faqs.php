@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en-gh">
 <head>
      <title>FAQs</title>
      <meta charset="utf-8">
@@ -57,7 +57,7 @@
 </header>
 
 <!--=======content================================-->
-<div id="content"><div class="ic">More Website Templates @ TemplateMonster.com - July 22, 2013!</div>
+<div id="content"><div class="ic">Fulpruf</div>
 	<div class="container_12 bot-1">
 		
     </div>           

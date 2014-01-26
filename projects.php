@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en-gh">
 <head>
      <title>PROJECTS</title>
      <meta charset="utf-8">

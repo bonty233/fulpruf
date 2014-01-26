@@ -10,7 +10,7 @@
       'services' : [
         {'service': 'facebook', 'id': 'fulpruf'},
         {'service': 'twitter', 'id': 'fulpruf'},
-        {'service': 'google_follow', 'id': '114753998348479335786'}
+        {'service': 'google_follow', 'id': '105727742075461607515'}
       ]
     }   
   });

@@ -1,6 +1,6 @@
 
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en-gh">
 <head>
      <title>SERVICES</title>
      <meta charset="utf-8">
@@ -57,7 +57,7 @@
     </nav>
 </header>
 <!--=======content================================-->
-<div id="content"><div class="ic">More Website Templates @ TemplateMonster.com - July 22, 2013!</div>
+<div id="content"><div class="ic">FulPruf</div>
 	<div class="container_12 bot-1">
 		<div class="grid_12">
         	<h2 class="indent-2">Featured Services</h2>
@@ -118,7 +118,7 @@
                     </li>
                 </ul>
                 <a href="#" class="btn">more</a>
-            </div>
+            </div>	<!--
             <div class="grid_3 push_1">
                 <h2 class="indent-2">Business Plan</h2>
                 <span class="lead"><a href="#">Fusce euismod consequat ante. Lorem ipsum dolor sit amet,
@@ -127,7 +127,7 @@ consectetuer adipiscing elit.</a></span>
                 <span class="lead"><a href="#">Pellentesque sed dolor. Aliquam congue fermentum nisl.</a></span><br>
     Es euisoe rspide oistatu olup cusmew dolemqu udiem aper iaipsqu aeabnvei ntore veritatis etqua.si ae eatae vitaetuli dicta sunt explicbomo enim ipsatatol.<br>
                 <a href="#" class="btn">more</a>
-            </div>
+            </div>    -->
         </div>
     </div> 
     <div class="container_12 bot-1">
@@ -136,20 +136,18 @@ consectetuer adipiscing elit.</a></span>
             </div>
             <div class="grid_4 wrap box-2">
             	<img src="images/page4-img3.jpg" alt="">   
-                <span class="lead"><a href="#">Fusce euismod consequat ante.</a></span><br>
-    			Cusm dolemqu udiem aper iaipsqu aeabnve ntore veritatis etqua
+                <span class="lead"><a href="#">Professionalism</a></span><br>
+    			We go about all our jobs as professionals sticking to a dedicated work ethic to ensure utmost customer satisfaction.
             </div>
             <div class="grid_4 wrap box-2">
             	<img src="images/page4-img4.jpg" alt="">   
-                <span class="lead"><a href="#">Quisque diam lorem</a></span><br>
-    			Cusm dolemqu udiem aper iaipsqu aeabnve ntore veritatis etqua eatae vitae dicta sunt.
+                <span class="lead"><a href="#">Punctuality</a></span><br>
+    			We have schemes in place to ensure that we finish all jobs on time. With our dedicated team, utmost satisfaction is guaranteed all clients.
             </div>
             <div class="grid_4 wrap box-2">
             	<img src="images/page4-img5.jpg" alt="">   
-                <span class="lead"><a href="#">Aenean nec eros</a></span><br>
-    			Cusm dolemqu udiem 
-aper iaipsqu aeabnve 
-ntore veritatis etqua eatae vitae dicta sunt.
+                <span class="lead"><a href="#">Productivity</a></span><br>
+    			We listen to clients and always help them take their business to the top. We help businesses become more productive. 
             </div>
     </div>                 
 </div>

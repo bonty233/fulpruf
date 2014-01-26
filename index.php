@@ -1,8 +1,11 @@
 <!DOCTYPE html>
-<html lang = "en">
+<html lang = "en-gh">
 <head>
 	<title>HOME</title>
      <meta charset="utf-8">
+     <meta name="description" content="A computer start-up company in Accra that creates online applications, desktop applications, android applications, websites, SEO, general computer consultancy"/>
+     <meta name="keywords" content="Software, programming, Ghana, FulPruf, Android, Police Post Street, " />
+     <meta name="author" content="FulPruf" />
      <link rel="icon" href="images/favicon.ico">
      <link rel="shortcut icon" href="images/favicon.ico" />
      <link rel="stylesheet" href="css/style.css">
@@ -95,7 +98,7 @@
 <!-- ================HEADER END================= -->
 
 
-<div id="content"><div class="ic">More Website Templates @ TemplateMonster.com - July 22, 2013!</div>
+<div id="content"><div class="ic">FulPruf</div>
 	<div class="slider-relative">
         <div class="slider-block">
             <div class="slider">
@@ -143,7 +146,7 @@
                 <img src="images/page1-img4.png" alt="">
                 <h4>Client Reviews</h4>
             </div>
-            Owasd et accusamus et iusto odiomulo dignissimos ducimus qui bl abd gdihtiie praesentium voluptatum deenir rf uiti jllti atque. Ckloerupti quos doloregts.
+            FulPruf are good at what they do and they offer professional advise too. Their services are great. <br /> -<strong>Power Victory Chapel</strong>
 		</div>
         </div>
     <div class="bg-1">

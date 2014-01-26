@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en-gh">
 <head>
      <title>CONTACTS</title>
      <meta charset="utf-8">
@@ -58,38 +58,65 @@
 </header>
 
 <!--=======content================================-->
-<div id="content"><div class="ic">More Website Templates @ TemplateMonster.com - July 22, 2013!</div>
+<div id="content"><div class="ic">FulPruf</div>
 	<div class="container_12 bot-1">
 		<div class="grid_12">
         	<h2 class="indent-2">ConTact Us</h2>
 		</div>
         <div class="grid_5">
-        	<form id="form">
+        	
+        	<?php
+				if (isset($_POST['name']) && isset($_POST['email']) && isset($_POST['phone']) && isset($_POST['message'])){
+				 $name=$_POST['name'];
+				 $email=$_POST['email'];
+				 $message = $_POST['message'];
+				 $phone = $_POST['phone'];
+				 
+				 if (!empty($name) && !empty($email) && !empty($phone) && !empty($phone)){
+				 
+				    $to='info@fulpruf.com';
+					$subject='Contact form submitted.';
+					$body=$name."\n".$message;
+					$headers = 'From: '.$email;
+					
+					if(@mail($to,$subject,$body,$headers)){
+				     echo '<div class="success">Contact form submitted!<br>
+                <strong>We will be in touch soon.</strong> </div>';
+				}else{
+						echo '<span class="error error-empty">*Sorry, an error occured. Please try again in a few minutes.</span>';
+					}
+				}else{
+					echo '<span class="error error-empty">*All fields required!</span><span class="empty error-empty">';
+				 }
+				}
+		?>
+        	
+        	<form id="form" action="contact.php" method="POST">
                 <div class="text-info">Send an e-mail. All fields with an * are required</div>
                 <div class="success">Contact form submitted!<br>
                 <strong>We will be in touch soon.</strong> </div>
                 <fieldset>
                     <label class="name">
                         <span class="title">Name*</span>
-                        <input type="text" value=" ">
+                        <input type="text" value="" name="name">
                         <br class="clear">
                         <span class="error error-empty">*This is not a valid name.</span><span class="empty error-empty">*This field is required.</span>
                     </label>
                     <label class="email">
                         <span class="title">E-mail*</span>
-                        <input type="text" value=" ">
+                        <input type="text" value="" name="email">
                         <br class="clear">
                         <span class="error error-empty">*This is not a valid email address.</span><span class="empty error-empty">*This field is required.</span>
                     </label>
                     <label class="phone">
                         <span class="title">Phone*</span>
-                        <input type="tel" value=" ">
+                        <input type="tel" value="" name="phone">
                         <br class="clear">
                         <span class="error error-empty">*This is not a valid phone number.</span><span class="empty error-empty">*This field is required.</span>
                     </label>
                     <label class="message">
                         <span class="title">Message*</span>
-                        <textarea> </textarea>
+                        <textarea name="message"> </textarea>
                         <br class="clear">
                         <span class="error">*The message is too short.</span> <span class="empty">*This field is required.</span>
                     </label>

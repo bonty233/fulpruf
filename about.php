@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en-gh">
 <head>
      <title>ABOUT</title>
      <meta charset="utf-8">
@@ -57,7 +57,7 @@
 </header>
 
 <!--=======content================================-->
-<div id="content"><div class="ic">More Website Templates @ TemplateMonster.com - July 22, 2013!</div>
+<div id="content"><div class="ic">FulPruf</div>
 	<div class="container_12 bot-1">
 		<div class="grid_12">
         	<h2 class="indent-2">Company</h2>
@@ -72,10 +72,10 @@
             for our clients.
 		</div>
         <div class="grid_3">
-        	<img src="images/page2-img1.jpg" alt="">
+        	<img src="images/company.jpg" alt="">
 		</div>
         <div class="grid_3">
-        	<img src="images/page2-img2.jpg" alt="">
+        	<img src="images/company1.jpg" alt="">
 		</div>
         <div class="clear"></div>
 	</div>
@@ -131,7 +131,7 @@ Maecenas tristique orci ac sem. Duis ultrices pharetra gna. Donec accumsan  male
             <div class="grid_12">
                 <h2 class="indent-2">Clients</h2>
             </div>
-            <div class="grid_6">Over the years, we have built very strong relationships with our clientele. Here's what some of them have to say about the service we offer.</div>
+            <div class="grid_6">Over the years, we have built very strong relationships with our clientele. Here are clients thus far..</div>
             <div class="grid_2"><a href="#"><img src="images/page2-img9.jpg" alt=""></a></div>
             <div class="grid_2"><a href="#"><img src="images/page2-img10.jpg" alt=""></a></div>
             <div class="grid_2"><a href="#"><img src="images/page2-img11.jpg" alt=""></a></div>
